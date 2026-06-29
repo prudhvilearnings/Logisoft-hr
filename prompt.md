@@ -12,24 +12,27 @@ Context:
 Existing Vite + React project.
 
 Task:
-Develop the login page with different user:
-    1. Employee
-    2. Team lead
-    3. Manager
+1.Develop the login page with different user:
+    1. Employee (Only Employyee details : Projects. due dates, )
+    2. Team lead ( include Employee and team lead details)
+    3. Manager (Include eveydetail add supervise permissions )
 
-Requirements:
-- <requirement 1>
-- <requirement 2>
+2. Design and Develop the Dashboard for every user(employee, team lead, manager) 
+    employeee details 
+        team lead details
+            manager details
+    make it look great and with some analytics
+
+3. Design and develop the Chatbot to down-right-coner.
+
+
 
 Constraints:
 - Keep existing API unchanged.
-- Preserve current architecture.
-- No unnecessary refactoring.
-- No new dependencies unless explicitly requested.
-- Do not rename, move, or delete files.
+- Make UI dual colored
+- Use Components only
 - Reuse existing patterns and utilities.
-- Ask questions if required information is missing.
-- Do not assume requirements.
+- Reference the screenshot 
 
 Do Not:
 - Rename files.
